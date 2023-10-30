@@ -39,7 +39,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.0.1</version>
+    <version>7.17.13</version>
 </dependency>
 
     
@@ -63,7 +63,7 @@
 <dependency>
     <groupId>org.elasticsearch</groupId>
     <artifactId>elasticsearch</artifactId>
-    <version>7.0.1</version>
+    <version>7.17.13</version>
 </dependency>
 
 </dependencies>
